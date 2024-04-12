@@ -1,3 +1,5 @@
+import Userlist from "../Components/Userlist";
+
 export default function HomePage() {
-  return <div>Home page</div>;
+  return <div><Userlist/></div>;
 }
